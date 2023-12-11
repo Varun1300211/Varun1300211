@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hello, World! 
+<h1 align="center"> Hello, World! </h1>
 
 <h2> I'm Varun! </h2>
 
