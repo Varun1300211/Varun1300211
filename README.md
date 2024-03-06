@@ -13,9 +13,6 @@
 
 🔭 Join me as I navigate through this exciting tech landscape, sharing my projects, insights, and learnings along the way. Let's connect, collaborate, and code for a brighter, tech-driven future! 💡✨
 
-<h2> Reach out to me: </h2>
-<p align="left">
-<a href="https://linkedin.com/in/varun-kumar-gupta-400860220/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/varun-kumar-gupta-400860220/"/></a></p>
 
 <h2> Languages: </h2>
 <p><img align = "left" src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></img>
@@ -65,10 +62,14 @@
   <img align = "left" src = "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></img>
 </p>
 
-
-
-</p>
 <br><br><br>
+
+<h2> Reach out to me: </h2>
+<p align="left">
+<a href="https://linkedin.com/in/varun-kumar-gupta-400860220/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/varun-kumar-gupta-400860220/"/></a></p>
+
+
+<br>
 <h2> This is my portfolio website </h2>
 <p align="left">
 <a href="https://varunkrgportfolio.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="https://varunkrgportfolio.netlify.app/"/></a>
