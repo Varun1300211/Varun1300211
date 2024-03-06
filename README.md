@@ -17,7 +17,19 @@
 <p align="left">
 <a href="https://linkedin.com/in/varun-kumar-gupta-400860220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-kumar-gupta-400860220/" height="30" width="40" /></a></p>
 
-<h2> This is my portfolio website</h2>
+<h2> Languages: </h2>
+<p><img align = "left" src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></img>
+<img align = "left" src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
+<img align = "left" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></img>
+<img align = "left" src = "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></img>
+<img align = "left" src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
+<img align = "left" src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
+<img align = "left" src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
+
+
+</p>
+<br><br><br>
+<h2> This is my portfolio website </h2>
 https://varunkrgportfolio.netlify.app/
 
 
