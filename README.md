@@ -15,8 +15,7 @@
 
 <h2> Reach out to me: </h2>
 <p align="left">
-<a href="https://linkedin.com/in/varun-kumar-gupta-400860220/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/varun-kumar-gupta-400860220/"/></a>
-<a href="varunkumarg135@gmail.com/" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="varunkumarg135@gmail.com"/></a></p>
+<a href="https://linkedin.com/in/varun-kumar-gupta-400860220/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/varun-kumar-gupta-400860220/"/></a></p>
 
 <h2> Languages: </h2>
 <p><img align = "left" src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></img>
@@ -71,7 +70,8 @@
 </p>
 <br><br><br>
 <h2> This is my portfolio website </h2>
-https://varunkrgportfolio.netlify.app/
+<p align="left">
+<a href="https://varunkrgportfolio.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="https://varunkrgportfolio.netlify.app/"/></a>
 
 
 <!--
