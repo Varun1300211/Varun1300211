@@ -5,7 +5,7 @@
 <h2> I'm Varun! </h2>
 
 
-👨‍🎓 I am a final-year Computer Engineering student at Thapar Institute of Engineering and Technology. 🎓💻 Passionate about crafting solutions through code, I'm deeply immersed in the realms of Full Stack Development, Data Structures, Algorithms, and the fascinating world of Data Science.
+👨‍🎓 I am currently a Software Engineer working for Barclays UK, I have done my Computer Engineering at Thapar Institute of Engineering and Technology. 🎓💻 Passionate about crafting solutions through code, I'm deeply immersed in the realms of Full Stack Development, Data Structures, Algorithms, and the fascinating world of Data Science.
 
 🚀 With a drive to innovate and learn, I'm on a journey to explore the intersection of technology and problem-solving. My repositories showcase my endeavors in building scalable applications, mastering algorithms, and exploring data-driven insights.
 
